@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\bin\Debug\net6.0\The Variable Shop.exe
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\bin\Debug\net6.0\The Variable Shop.deps.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\bin\Debug\net6.0\The Variable Shop.runtimeconfig.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\bin\Debug\net6.0\The Variable Shop.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\bin\Debug\net6.0\The Variable Shop.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\obj\Debug\net6.0\The Variable Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\obj\Debug\net6.0\The Variable Shop.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\obj\Debug\net6.0\The Variable Shop.AssemblyInfo.cs
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\obj\Debug\net6.0\The Variable Shop.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\obj\Debug\net6.0\The Variable Shop.sourcelink.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\obj\Debug\net6.0\The Variable Shop.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\obj\Debug\net6.0\refint\The Variable Shop.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\obj\Debug\net6.0\The Variable Shop.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\obj\Debug\net6.0\The Variable Shop.genruntimeconfig.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Variable Shop\obj\Debug\net6.0\ref\The Variable Shop.dll
