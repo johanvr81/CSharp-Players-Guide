@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\obj\Debug\net6.0\The Triangle Farmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\obj\Debug\net6.0\The Triangle Farmer.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\obj\Debug\net6.0\The Triangle Farmer.AssemblyInfo.cs
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\obj\Debug\net6.0\The Triangle Farmer.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\obj\Debug\net6.0\The Triangle Farmer.sourcelink.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\bin\Debug\net6.0\The Triangle Farmer.exe
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\bin\Debug\net6.0\The Triangle Farmer.deps.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\bin\Debug\net6.0\The Triangle Farmer.runtimeconfig.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\bin\Debug\net6.0\The Triangle Farmer.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\bin\Debug\net6.0\The Triangle Farmer.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\obj\Debug\net6.0\The Triangle Farmer.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\obj\Debug\net6.0\refint\The Triangle Farmer.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\obj\Debug\net6.0\The Triangle Farmer.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\obj\Debug\net6.0\The Triangle Farmer.genruntimeconfig.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Triangle Farmer\obj\Debug\net6.0\ref\The Triangle Farmer.dll
