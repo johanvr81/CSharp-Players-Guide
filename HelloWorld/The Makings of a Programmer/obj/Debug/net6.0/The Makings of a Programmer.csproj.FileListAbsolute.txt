@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\bin\Debug\net6.0\The Makings of a Programmer.exe
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\bin\Debug\net6.0\The Makings of a Programmer.deps.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\bin\Debug\net6.0\The Makings of a Programmer.runtimeconfig.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\bin\Debug\net6.0\The Makings of a Programmer.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\bin\Debug\net6.0\The Makings of a Programmer.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\obj\Debug\net6.0\The Makings of a Programmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\obj\Debug\net6.0\The Makings of a Programmer.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\obj\Debug\net6.0\The Makings of a Programmer.AssemblyInfo.cs
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\obj\Debug\net6.0\The Makings of a Programmer.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\obj\Debug\net6.0\The Makings of a Programmer.sourcelink.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\obj\Debug\net6.0\The Makings of a Programmer.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\obj\Debug\net6.0\refint\The Makings of a Programmer.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\obj\Debug\net6.0\The Makings of a Programmer.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\obj\Debug\net6.0\The Makings of a Programmer.genruntimeconfig.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Makings of a Programmer\obj\Debug\net6.0\ref\The Makings of a Programmer.dll

@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\bin\Debug\net6.0\The Thing Namer 3000.exe
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\bin\Debug\net6.0\The Thing Namer 3000.deps.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\bin\Debug\net6.0\The Thing Namer 3000.runtimeconfig.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\bin\Debug\net6.0\The Thing Namer 3000.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\bin\Debug\net6.0\The Thing Namer 3000.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.AssemblyInfo.cs
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.sourcelink.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\obj\Debug\net6.0\refint\The Thing Namer 3000.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\obj\Debug\net6.0\The Thing Namer 3000.genruntimeconfig.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\The Thing Namer 3000\obj\Debug\net6.0\ref\The Thing Namer 3000.dll

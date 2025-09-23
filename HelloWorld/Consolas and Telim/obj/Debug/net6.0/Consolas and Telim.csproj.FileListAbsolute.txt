@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\obj\Debug\net6.0\Consolas and Telim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\obj\Debug\net6.0\Consolas and Telim.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\obj\Debug\net6.0\Consolas and Telim.AssemblyInfo.cs
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\obj\Debug\net6.0\Consolas and Telim.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\obj\Debug\net6.0\Consolas and Telim.sourcelink.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\bin\Debug\net6.0\Consolas and Telim.exe
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\bin\Debug\net6.0\Consolas and Telim.deps.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\bin\Debug\net6.0\Consolas and Telim.runtimeconfig.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\bin\Debug\net6.0\Consolas and Telim.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\bin\Debug\net6.0\Consolas and Telim.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\obj\Debug\net6.0\Consolas and Telim.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\obj\Debug\net6.0\refint\Consolas and Telim.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\obj\Debug\net6.0\Consolas and Telim.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\obj\Debug\net6.0\Consolas and Telim.genruntimeconfig.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\HelloWorld\Consolas and Telim\obj\Debug\net6.0\ref\Consolas and Telim.dll
