@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\The Dominion of Kings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A5FA14-A9AE-4246-A16D-FB7535B90B27}|The Dominion of Kings.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\the dominion of kings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A5FA14-A9AE-4246-A16D-FB7535B90B27}|The Dominion of Kings.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\The Dominion of Kings\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\The Dominion of Kings\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T18:31:08.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
