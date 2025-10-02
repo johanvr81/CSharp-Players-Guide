@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CbYShIRN7J0=",
+  "dgSpecHash": "y571V8uTy7I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\The Dominion of Kings\\The Dominion of Kings.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\nosvarato\\OneDrive - JustSolve (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\The Dominion of Kings\\The Dominion of Kings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nosvarato\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nosvarato\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nosvarato\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nosvarato\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
