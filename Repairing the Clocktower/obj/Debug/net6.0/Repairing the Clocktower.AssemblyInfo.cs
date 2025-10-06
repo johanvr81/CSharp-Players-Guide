@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Repairing the Clocktower")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba4398ea5c8b0726176ce6a14dbbc9bbacd04859")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b282de82808583277d8716a3018ddf013dfc81a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Repairing the Clocktower")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Repairing the Clocktower")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
