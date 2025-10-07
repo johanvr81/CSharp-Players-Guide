@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Vin Fletcher\u2019s Arrows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4683CF5-8B58-443D-B1DB-1225BE3C71D5}|Vin Fletcher\u2019s Arrows.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\vin fletcher\u2019s arrows\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4683CF5-8B58-443D-B1DB-1225BE3C71D5}|Vin Fletcher\u2019s Arrows.csproj|solutionrelative:arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4683CF5-8B58-443D-B1DB-1225BE3C71D5}|Vin Fletcher\u2019s Arrows.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\vin fletcher\u2019s arrows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4683CF5-8B58-443D-B1DB-1225BE3C71D5}|Vin Fletcher\u2019s Arrows.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arrow.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Vin Fletcher\u2019s Arrows\\Arrow.cs",
+              "RelativeDocumentMoniker": "Arrow.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Vin Fletcher\u2019s Arrows\\Arrow.cs",
+              "RelativeToolTip": "Arrow.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:48:05.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Vin Fletcher\u2019s Arrows\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Vin Fletcher\u2019s Arrows\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:47:04.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

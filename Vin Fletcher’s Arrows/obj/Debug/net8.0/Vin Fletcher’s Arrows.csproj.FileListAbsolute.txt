@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.AssemblyInfo.cs
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.sourcelink.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.exe
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.deps.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.runtimeconfig.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\obj\Debug\net8.0\refint\Vin Fletcher’s Arrows.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.genruntimeconfig.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Vin Fletcher’s Arrows\obj\Debug\net8.0\ref\Vin Fletcher’s Arrows.dll
