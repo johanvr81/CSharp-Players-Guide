@@ -7,36 +7,39 @@ using System.Threading.Tasks;
 namespace Vin_Fletcher_s_Arrows
 {    class Arrow
     {
-        public ArrowHead _arrowHead;
-        public Fletching _fletching;
-        public float _length;
+        public ArrowHead Arrowhead { get; }
+        public Fletching Fletching { get; }
+        public float Length { get; }
 
         public Arrow(ArrowHead arrowHead, Fletching fletching, float length)
         {
-            _arrowHead = arrowHead;
-            _fletching = fletching;
-            _length = length;
+            Arrowhead = arrowHead;
+            Fletching = fletching;
+            Length = length;
         }
 
-        public float GetCost()
+        public float Cost
         {
-            float ArrowHeadCost = _arrowHead switch
+            get
             {
-                ArrowHead.Steel => 10,
-                ArrowHead.Wood => 3,
-                ArrowHead.Obsidian => 5
-            };
+                float arrowHeadCost = Arrowhead switch
+                {
+                    ArrowHead.Steel => 10,
+                    ArrowHead.Wood => 3,
+                    ArrowHead.Obsidian => 5
+                };
 
-            float fletchingCost = _fletching switch
-            {
-                Fletching.Plastic => 10,
-                Fletching.TurkeyFeathers => 5,
-                Fletching.GooseFeathers => 3
-            };
+                float fletchingCost = Fletching switch
+                {
+                    Fletching.Plastic => 10,
+                    Fletching.TurkeyFeathers => 5,
+                    Fletching.GooseFeathers => 3
+                };
 
-            float shaftCost = 0.05f * _length;
+                float shaftCost = 0.05f * Length;
 
-            return ArrowHeadCost + fletchingCost + shaftCost;
+                return arrowHeadCost + fletchingCost + shaftCost;
+            }
         }
     }
 

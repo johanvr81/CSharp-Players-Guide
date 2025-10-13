@@ -4,7 +4,7 @@ using Vin_Fletcher_s_Arrows;
 Console.Title = "Vin Fletcher’s Arrows";
 
 Arrow arrow = GetArrow();
-Console.WriteLine($"That arrow costs {arrow.GetCost()} gold.");
+Console.WriteLine($"That arrow costs {arrow.Cost} gold.");
 
 Arrow GetArrow()
 {

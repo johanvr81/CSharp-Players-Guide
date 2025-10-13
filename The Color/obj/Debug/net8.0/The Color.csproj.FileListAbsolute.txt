@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\bin\Debug\net8.0\The Color.exe
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\bin\Debug\net8.0\The Color.deps.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\bin\Debug\net8.0\The Color.runtimeconfig.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\bin\Debug\net8.0\The Color.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\bin\Debug\net8.0\The Color.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\obj\Debug\net8.0\The Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\obj\Debug\net8.0\The Color.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\obj\Debug\net8.0\The Color.AssemblyInfo.cs
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\obj\Debug\net8.0\The Color.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\obj\Debug\net8.0\The Color.sourcelink.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\obj\Debug\net8.0\The Color.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\obj\Debug\net8.0\refint\The Color.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\obj\Debug\net8.0\The Color.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\obj\Debug\net8.0\The Color.genruntimeconfig.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Color\obj\Debug\net8.0\ref\The Color.dll

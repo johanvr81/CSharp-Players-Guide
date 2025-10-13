@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Arrow Factories\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7CDB8B-4236-41DB-8303-ECAD6BEE6045}|Arrow Factories.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\arrow factories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7CDB8B-4236-41DB-8303-ECAD6BEE6045}|Arrow Factories.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7CDB8B-4236-41DB-8303-ECAD6BEE6045}|Arrow Factories.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\arrow factories\\arrows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7CDB8B-4236-41DB-8303-ECAD6BEE6045}|Arrow Factories.csproj|solutionrelative:arrows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arrows.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Arrow Factories\\Arrows.cs",
+              "RelativeDocumentMoniker": "Arrows.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Arrow Factories\\Arrows.cs",
+              "RelativeToolTip": "Arrows.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwDMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:57:30.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Arrow Factories\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Arrow Factories\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:56:20.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

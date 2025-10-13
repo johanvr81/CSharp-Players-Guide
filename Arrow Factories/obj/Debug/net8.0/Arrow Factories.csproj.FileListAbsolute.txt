@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\obj\Debug\net8.0\Arrow Factories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\obj\Debug\net8.0\Arrow Factories.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\obj\Debug\net8.0\Arrow Factories.AssemblyInfo.cs
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\obj\Debug\net8.0\Arrow Factories.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\obj\Debug\net8.0\Arrow Factories.sourcelink.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\bin\Debug\net8.0\Arrow Factories.exe
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\bin\Debug\net8.0\Arrow Factories.deps.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\bin\Debug\net8.0\Arrow Factories.runtimeconfig.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\bin\Debug\net8.0\Arrow Factories.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\bin\Debug\net8.0\Arrow Factories.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\obj\Debug\net8.0\Arrow Factories.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\obj\Debug\net8.0\refint\Arrow Factories.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\obj\Debug\net8.0\Arrow Factories.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\obj\Debug\net8.0\Arrow Factories.genruntimeconfig.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Arrow Factories\obj\Debug\net8.0\ref\Arrow Factories.dll

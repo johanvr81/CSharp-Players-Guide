@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\bin\Debug\net8.0\The Point.exe
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\bin\Debug\net8.0\The Point.deps.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\bin\Debug\net8.0\The Point.runtimeconfig.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\bin\Debug\net8.0\The Point.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\bin\Debug\net8.0\The Point.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\obj\Debug\net8.0\The Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\obj\Debug\net8.0\The Point.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\obj\Debug\net8.0\The Point.AssemblyInfo.cs
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\obj\Debug\net8.0\The Point.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\obj\Debug\net8.0\The Point.sourcelink.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\obj\Debug\net8.0\The Point.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\obj\Debug\net8.0\refint\The Point.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\obj\Debug\net8.0\The Point.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\obj\Debug\net8.0\The Point.genruntimeconfig.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Point\obj\Debug\net8.0\ref\The Point.dll
