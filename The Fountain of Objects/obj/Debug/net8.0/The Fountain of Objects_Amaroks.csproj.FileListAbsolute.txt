@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\bin\Debug\net8.0\The Fountain of Objects_Amaroks.exe
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\bin\Debug\net8.0\The Fountain of Objects_Amaroks.deps.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\bin\Debug\net8.0\The Fountain of Objects_Amaroks.runtimeconfig.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\bin\Debug\net8.0\The Fountain of Objects_Amaroks.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\bin\Debug\net8.0\The Fountain of Objects_Amaroks.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks.AssemblyInfo.cs
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks.sourcelink.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\refint\The Fountain of Objects_Amaroks.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks.genruntimeconfig.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\ref\The Fountain of Objects_Amaroks.dll
