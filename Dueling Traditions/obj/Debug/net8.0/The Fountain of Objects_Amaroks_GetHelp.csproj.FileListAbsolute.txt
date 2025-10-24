@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\bin\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.exe
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\bin\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.deps.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\bin\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.runtimeconfig.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\bin\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\bin\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.AssemblyInfo.cs
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.sourcelink.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\refint\The Fountain of Objects_Amaroks_GetHelp.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\The Fountain of Objects_Amaroks_GetHelp.genruntimeconfig.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\The Fountain of Objects\obj\Debug\net8.0\ref\The Fountain of Objects_Amaroks_GetHelp.dll

@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\dueling traditions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\dueling traditions\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\dueling traditions\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|solutionrelative:move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\dueling traditions\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|solutionrelative:monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\dueling traditions\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\dueling traditions\\isense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|solutionrelative:isense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\dueling traditions\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|solutionrelative:icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\dueling traditions\\fountainofobjectsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|solutionrelative:fountainofobjectsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\dueling traditions\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|The Fountain of Objects_Amaroks_GetHelp.csproj|solutionrelative:consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|Dueling Traditions.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\dueling traditions\\dueling traditions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54D5BCD6-054D-4E7B-833C-289684B60027}|Dueling Traditions.csproj|solutionrelative:dueling traditions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dueling Traditions.csproj",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\Dueling Traditions.csproj",
+              "RelativeDocumentMoniker": "Dueling Traditions.csproj",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\Dueling Traditions.csproj",
+              "RelativeToolTip": "Dueling Traditions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T12:39:25.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\Monster.cs",
+              "RelativeDocumentMoniker": "Monster.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\Monster.cs",
+              "RelativeToolTip": "Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:03:32.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\ICommand.cs",
+              "RelativeDocumentMoniker": "ICommand.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\ICommand.cs",
+              "RelativeToolTip": "ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:02:03.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISense.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\ISense.cs",
+              "RelativeDocumentMoniker": "ISense.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\ISense.cs",
+              "RelativeToolTip": "ISense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:59:37.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\Move.cs",
+              "RelativeDocumentMoniker": "Move.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\Move.cs",
+              "RelativeToolTip": "Move.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:57:11.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\ConsoleHelper.cs",
+              "RelativeToolTip": "ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:54:56.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FountainOfObjectsGame.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\FountainOfObjectsGame.cs",
+              "RelativeDocumentMoniker": "FountainOfObjectsGame.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\FountainOfObjectsGame.cs",
+              "RelativeToolTip": "FountainOfObjectsGame.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:52:40.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\Map.cs",
+              "RelativeDocumentMoniker": "Map.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\Map.cs",
+              "RelativeToolTip": "Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:50:02.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:49:03.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Dueling Traditions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:47:43.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
