@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Converting Directions to Offsets/1.0.0": {
+        "runtime": {
+          "Converting Directions to Offsets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Converting Directions to Offsets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

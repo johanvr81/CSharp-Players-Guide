@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Indexing Operand City\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{735DF6E3-D7CA-4B82-9777-5B263BC15149}|Indexing Operand City.csproj|c:\\users\\johan\\onedrive - justsolve solutions (pty) ltd\\justsolve staff - csharp\\rooies\\csharp-players-guide\\indexing operand city\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735DF6E3-D7CA-4B82-9777-5B263BC15149}|Indexing Operand City.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Indexing Operand City\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive - JustSolve Solutions (Pty) Ltd\\JustSolve Staff - CSharp\\Rooies\\CSharp-Players-Guide\\Indexing Operand City\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:30:33.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

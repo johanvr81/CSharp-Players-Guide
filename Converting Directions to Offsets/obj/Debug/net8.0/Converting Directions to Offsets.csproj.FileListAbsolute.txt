@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\bin\Debug\net8.0\Converting Directions to Offsets.exe
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\bin\Debug\net8.0\Converting Directions to Offsets.deps.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\bin\Debug\net8.0\Converting Directions to Offsets.runtimeconfig.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\bin\Debug\net8.0\Converting Directions to Offsets.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\bin\Debug\net8.0\Converting Directions to Offsets.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\obj\Debug\net8.0\Converting Directions to Offsets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\obj\Debug\net8.0\Converting Directions to Offsets.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\obj\Debug\net8.0\Converting Directions to Offsets.AssemblyInfo.cs
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\obj\Debug\net8.0\Converting Directions to Offsets.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\obj\Debug\net8.0\Converting Directions to Offsets.sourcelink.json
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\obj\Debug\net8.0\Converting Directions to Offsets.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\obj\Debug\net8.0\refint\Converting Directions to Offsets.dll
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\obj\Debug\net8.0\Converting Directions to Offsets.pdb
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\obj\Debug\net8.0\Converting Directions to Offsets.genruntimeconfig.cache
+C:\Users\johan\OneDrive - JustSolve Solutions (Pty) Ltd\JustSolve Staff - CSharp\Rooies\CSharp-Players-Guide\Converting Directions to Offsets\obj\Debug\net8.0\ref\Converting Directions to Offsets.dll
