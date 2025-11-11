@@ -1,0 +1,9 @@
+1. Popular architectures: x86/x64 (for PCs) and ARM (for mobile).
+
+2. True/False: False — each computer has its own instruction set; x86/x64 and ARM are just the most common.
+
+3. C# virtual machine: CLR (Common Language Runtime).
+
+4. Other languages: C++, Java, Visual Basic, F#, etc.
+
+5. C# compiled instruction set: CIL (Common Intermediate Language), also called IL or MSIL.

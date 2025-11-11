@@ -1,0 +1,19 @@
+1. True/False: False — 'const' is compile-time, 'readonly' is runtime. 'const' is faster but more limited.
+
+2. Reflection class: 'System.Type' — represents type metadata at runtime.
+
+3. Jump keyword: 'goto' — avoid using it; structured flow is better.
+
+4. Split class definition: 'partial' — allows a class to span multiple files.
+
+5. Bit operators: '>>', '<<', '&', '|', '^'.
+
+6. True/False: False — enums can’t contain classes.
+
+7. True/False: True — classes can contain enums.
+
+8. DEBUG-only block: '#if DEBUG' … '#endif'.
+
+9. Automatic cleanup keyword: 'using' — disposes of 'IDisposable' objects automatically.
+
+10. True/False: True — 'yield' can produce infinite sequences.

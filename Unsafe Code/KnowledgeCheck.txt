@@ -1,0 +1,7 @@
+1. True/False: False — “Unsafe” code isn’t automatically dangerous; it just bypasses compiler/runtime safety checks.
+
+2. Keyword for unsafe context: unsafe — used on a block, method, or type (project must allow unsafe code).
+
+3. Keyword to pin a reference: fixed — keeps an object’s memory location stable while in use.
+
+4. Pointer to int: int* — the * indicates a pointer type.
