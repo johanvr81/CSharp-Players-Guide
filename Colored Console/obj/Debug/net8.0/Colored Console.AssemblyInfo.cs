@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Colored Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b40fcf4b766a54a3a09b5ef866289fbe5690f63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de2601c10d22e19fc265c3bf814fed4ade81f4d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Colored Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Colored Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
